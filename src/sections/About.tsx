@@ -36,7 +36,7 @@ export default function About() {
                 About Us
               </span>
               <h2 className="text-4xl sm:text-5xl font-bold mb-6">
-                Mengapa Memilih <span className="gradient-text">NexaTech?</span>
+                Mengapa Memilih <span className="gradient-text">TechVora?</span>
               </h2>
               <p className="text-text-secondary text-lg leading-relaxed mb-8">
                 Kami adalah tim developer profesional yang berdedikasi untuk
